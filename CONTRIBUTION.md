@@ -14,4 +14,6 @@ Pull requests are the best way to propose changes to the codebase (we use Github
 - Fork the repo and create your branch from master.
 - Write clear meaningful git commit messages.
 - Make sure your code lints.
-- Issue that pull request!
+- ssue that pull request!
+
+HELLO KAMALLLL BAUUU
